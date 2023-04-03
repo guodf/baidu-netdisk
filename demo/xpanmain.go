@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	openapiclient "open-sdk-go/openxpanapi"
+	openapiclient "github.com/guodf/baidu-netdisk/openxpanapi"
 )
 
 const (
